@@ -1,4 +1,4 @@
-# meuStepFuncion
+## Meu Step Function
 Criando meu primeiro Step Function 
 # Desafio de Orquestração com AWS Step Functions
 
