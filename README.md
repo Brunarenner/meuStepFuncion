@@ -12,7 +12,7 @@ O objetivo deste projeto é demonstrar a capacidade do AWS Step Functions de orq
 
 O fluxo de trabalho é orquestrado pelo AWS Step Functions e utiliza os seguintes serviços da AWS:
 
-![Diagrama da arquitetura do Step Functions](images/di<img width="466" height="401" alt="stepfunctions_graph" src="https://github.com/user-attachments/assets/09fad181-04f9-4b9f-b4dd-ea03b8610fa4" />
+(images/di<img width="466" height="401" alt="stepfunctions_graph" src="https://github.com/user-attachments/assets/09fad181-04f9-4b9f-b4dd-ea03b8610fa4" />
 agrama.png)
 
 1.  **AWS Lambda (`ProcessarMensagemLambda`)**: Uma função Lambda que simula o processamento de uma mensagem. Ela retorna um status de sucesso (código 200) ou falha para o Step Functions.
